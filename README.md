@@ -1,41 +1,46 @@
-Created in 2016 ~ Chloe Skillman 
+## Desert Speedway
 
-Hangman Python game
+Desert Speedway is a 3D driving game created in Unity. The game is split into two different modes to play; race and obstacle. 
+Race - Racing against other AI cars around a race course. Collect coins to increase score. Collect green power-ups to increase speed.
+Obstacle - Drive around a obstacle course avoiding different stationary and moving obstacles the whole way. 
 
-Download Hangman.py and words.txt
+## Getting Started
 
-Open Hangman.py - right click edit in IDLE 3.5
+You find need Unity version 2018.2.5f1 or later downloaded. 
+Download the zip file and extract all.
+Double click '  ' and select at which size you would like to play.  
 
-Press F5 to run/play game
-.
-Program will ask for text document
+### Prerequisites
 
-Type in 'words.txt'
+You find need Unity version 2018.2.5f1 or later downloaded.
+https://unity3d.com/get-unity/download
 
-Program will close if typed in incorrectly or there is no text file
+Follow the link above and select an appropriate version for your pc.
+Unity can be downloaded for free. 
 
-Choose a difficulty; type in "easy" , "intermediate", or "hard" (must be in all lowercase)
+### Installing
 
-(easy - will give a random word from words.txt but blanked out by * and 10 lives
+Unzip the file. Once unzipped, go into the file and double click "  " to play the game.
 
-intermediate - will give a random word from words.txt but blanked out by * and 7 lives
+## Built With
 
-hard - will give a random word from words.txt but blanked out by * and 5 lives )
+* [Unity](https://unity3d.com/get-unity/download) - The game engine used
 
-Program will allow you to guess letters; must guess in UPPER CASE
+## Versioning
 
-lowercase letter guess; the program will ask you to try andguess again
+[Unity2018.2.5f1](https://unity3d.com/get-unity/download) - contains link to download Unity2018.2.5f1 and previous and later versions. 
 
-Correct letters will be replace * with the correctly guess letter in the correct place
+## Screenshots
 
-Wrongly guessed letter will cause lives to be subtracted by 1
+![LosingPython](https://photos.google.com/u/2/search/_tra_/photo/AF1QipOLL9gu1TDaQKT8j7fJh40oV0UQAWSm93RH_EBk)
+![WinningPython](https://photos.google.com/u/2/search/_tra_/photo/AF1QipMGS9DGuFWpTbJUaPHkOhS5rZD2KAwWM9a-qe3e)
 
-If all letters are guessed word will show and you recieve the winning message followed 
+## Authors
 
-if you lose all lives you will recieve losing message
+* **Chloe Skillman** - *Game Creation* - [Github](https://github.com/ChloeLS)
+                                         [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
-which message is given is then followed by the program asking if you would like you play again
+## Acknowledgments
 
-in lowercase 'yes' to play gain
-
-in lowercase 'no' to kill program
+Assets Used:
+* Unity's Standard Assets - https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
