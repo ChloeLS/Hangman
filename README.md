@@ -12,9 +12,9 @@ Type in 'words.txt'
 Program will close if this is typed in incorrectly or there is no text file.
 Choose a difficulty; type in "easy" , "intermediate", or "hard" (must be in all lowercase)
 
-(easy - will give a random word from words.txt but blanked out by * and 10 lives
-intermediate - will give a random word from words.txt but blanked out by * and 7 lives
-hard - will give a random word from words.txt but blanked out by * and 5 lives)
+* easy - will give a random word from words.txt but blanked out by * and 10 lives
+* intermediate - will give a random word from words.txt but blanked out by * and 7 lives
+* hard - will give a random word from words.txt but blanked out by * and 5 lives
 
 Program will allow you to guess letters; you must guess in UPPER CASE.
 If guesses are lowercase letters the program will ask you to try and guess again.
