@@ -67,8 +67,8 @@ in lowercase 'no' to kill program
 
 https://photos.app.goo.gl/22gXmTZuqUZVcRUb8
 
-![LosingPython](https://photos.google.com/u/2/share/AF1QipOwYGAXFztmHKQ5ObXdBB-GzxtDbJcLFLVDdABf71tyY82TD0JJafDEZSTAB1MqOw/photo/AF1QipNKx2DFcIIFRmxGWvybXTs5yTs2Y-SqmAxf_8ZN?key=ajlYRDljVUNMMm1jUlRXelA4Tm9zcjlreFFKaFln)
-![WinningPython](https://photos.google.com/u/2/share/AF1QipOwYGAXFztmHKQ5ObXdBB-GzxtDbJcLFLVDdABf71tyY82TD0JJafDEZSTAB1MqOw/photo/AF1QipMEGejAd64ma3yXDhMII-McgQRCFatmDsmTwvBT?key=ajlYRDljVUNMMm1jUlRXelA4Tm9zcjlreFFKaFln)
+![LosingPython](https://raw.githubusercontent.com/ChloeLS/Hangman/master/LosingHangman.jpg)
+![WinningPython](https://raw.githubusercontent.com/ChloeLS/Hangman/master/WinningHangman.jpg)
 
 ## Authors
 
